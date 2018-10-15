@@ -1,0 +1,1646 @@
+[
+  {
+    "ModelName": "HP 2300",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "cold-reset-without-resetting-network",
+      "hp-blank-black-or-no-display-on-control-panel",
+      "hp-cold-reset-legacy-firmware",
+      "hp-performing-legacy-firmware-upgrade"
+    ]
+  },
+  {
+    "ModelName": "HP 2400",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "cold-reset-without-resetting-network",
+      "hp-blank-black-or-no-display-on-control-panel",
+      "hp-cold-reset-legacy-firmware",
+      "hp-performing-legacy-firmware-upgrade"
+    ]
+  },
+  {
+    "ModelName": "HP 4000/4050",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "hp-legacy-maintenance-resets"
+    ]
+  },
+  {
+    "ModelName": "HP 4100",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "hp-legacy-maintenance-resets"
+    ]
+  },
+  {
+    "ModelName": "HP 4100MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "cold-reset-without-resetting-network",
+      "hp-4100mfp-4101mfp-blank-no-display",
+      "hp-cold-reset-legacy-firmware",
+      "hp-disk-initialize-mfp",
+      "hp-performing-legacy-firmware-upgrade"
+    ]
+  },
+  {
+    "ModelName": "HP 4101MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "cold-reset-without-resetting-network",
+      "hp-4100mfp-4101mfp-blank-no-display",
+      "hp-cold-reset-legacy-firmware",
+      "hp-disk-initialize-mfp",
+      "hp-performing-legacy-firmware-upgrade"
+    ]
+  },
+  {
+    "ModelName": "HP 4200",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "cold-reset-without-resetting-network",
+      "hp-blank-black-or-no-display-on-control-panel",
+      "hp-cold-reset-legacy-firmware",
+      "hp-disk-initialize-legacy-firmware-non-mfp",
+      "hp-laserjet-swingplate-failure",
+      "hp-legacy-maintenance-resets",
+      "hp-performing-legacy-firmware-upgrade",
+      "toner-ground-spring-dislocation"
+    ]
+  },
+  {
+    "ModelName": "HP 4250",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "cold-reset-without-resetting-network",
+      "hp-blank-black-or-no-display-on-control-panel",
+      "hp-cold-reset-legacy-firmware",
+      "hp-disk-initialize-legacy-firmware-non-mfp",
+      "hp-laserjet-swingplate-failure",
+      "hp-legacy-maintenance-resets",
+      "hp-performing-legacy-firmware-upgrade",
+      "toner-ground-spring-dislocation",
+      "tray-2-lifting-message"
+    ]
+  },
+  {
+    "ModelName": "HP 4300",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "cold-reset-without-resetting-network",
+      "hp-blank-black-or-no-display-on-control-panel",
+      "hp-cold-reset-legacy-firmware",
+      "hp-disk-initialize-legacy-firmware-non-mfp",
+      "hp-laserjet-swingplate-failure",
+      "hp-legacy-maintenance-resets",
+      "hp-performing-legacy-firmware-upgrade",
+      "toner-ground-spring-dislocation"
+    ]
+  },
+  {
+    "ModelName": "HP 4345MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "cold-reset-without-resetting-network",
+      "hp-laserjet-swingplate-failure",
+      "toner-ground-spring-dislocation"
+    ]
+  },
+  {
+    "ModelName": "HP 4350",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "cold-reset-without-resetting-network",
+      "hp-blank-black-or-no-display-on-control-panel",
+      "hp-cold-reset-legacy-firmware",
+      "hp-disk-initialize-legacy-firmware-non-mfp",
+      "hp-laserjet-swingplate-failure",
+      "hp-legacy-maintenance-resets",
+      "hp-performing-legacy-firmware-upgrade",
+      "toner-ground-spring-dislocation",
+      "tray-2-lifting-message"
+    ]
+  },
+  {
+    "ModelName": "HP 5000",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "cold-reset-without-resetting-network",
+      "hp-blank-black-or-no-display-on-control-panel",
+      "hp-cold-reset-legacy-firmware",
+      "hp-legacy-maintenance-resets",
+      "hp-performing-legacy-firmware-upgrade"
+    ]
+  },
+  {
+    "ModelName": "HP 5100",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "cold-reset-without-resetting-network",
+      "hp-blank-black-or-no-display-on-control-panel",
+      "hp-cold-reset-legacy-firmware",
+      "hp-legacy-maintenance-resets",
+      "hp-performing-legacy-firmware-upgrade"
+    ]
+  },
+  {
+    "ModelName": "HP 5200",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "cold-reset-without-resetting-network",
+      "hp-blank-black-or-no-display-on-control-panel",
+      "hp-cold-reset-legacy-firmware",
+      "hp-legacy-maintenance-resets",
+      "hp-performing-legacy-firmware-upgrade"
+    ]
+  },
+  {
+    "ModelName": "HP 8000",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "hp-legacy-maintenance-resets"
+    ]
+  },
+  {
+    "ModelName": "HP 8100/8150",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "hp-legacy-maintenance-resets"
+    ]
+  },
+  {
+    "ModelName": "HP 9000",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "cold-reset-without-resetting-network",
+      "hp-blank-black-or-no-display-on-control-panel",
+      "hp-cold-reset-legacy-firmware",
+      "hp-disk-initialize-legacy-firmware-non-mfp",
+      "hp-legacy-maintenance-resets",
+      "hp-performing-legacy-firmware-upgrade"
+    ]
+  },
+  {
+    "ModelName": "HP 9000MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "cold-reset-without-resetting-network",
+      "hp-9000-series-13.11.05-error",
+      "hp-blank-black-or-no-display-on-control-panel",
+      "hp-cold-reset-legacy-firmware",
+      "hp-disk-initialize-mfp",
+      "hp-performing-legacy-firmware-upgrade"
+    ]
+  },
+  {
+    "ModelName": "HP 9040/9050",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "cold-reset-without-resetting-network",
+      "hp-9000-series-13.11.05-error",
+      "hp-blank-black-or-no-display-on-control-panel",
+      "hp-cold-reset-legacy-firmware",
+      "hp-disk-initialize-legacy-firmware-non-mfp",
+      "hp-legacy-maintenance-resets",
+      "hp-performing-legacy-firmware-upgrade"
+    ]
+  },
+  {
+    "ModelName": "HP 9050MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "cold-reset-without-resetting-network",
+      "hp-9000-series-13.11.05-error",
+      "hp-blank-black-or-no-display-on-control-panel",
+      "hp-cold-reset-legacy-firmware",
+      "hp-disk-initialize-mfp",
+      "hp-performing-legacy-firmware-upgrade"
+    ]
+  },
+  {
+    "ModelName": "HP CLJ 1500",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "missing-color-blank-pages"
+    ]
+  },
+  {
+    "ModelName": "HP CLJ 2500",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "missing-color-blank-pages"
+    ]
+  },
+  {
+    "ModelName": "HP CLJ 2550",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "missing-color-blank-pages"
+    ]
+  },
+  {
+    "ModelName": "HP CLJ 2820MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "missing-color-blank-pages"
+    ]
+  },
+  {
+    "ModelName": "HP CLJ 2830MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "missing-color-blank-pages"
+    ]
+  },
+  {
+    "ModelName": "HP CLJ 2840MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "missing-color-blank-pages"
+    ]
+  },
+  {
+    "ModelName": "HP CLJ 3000",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "cold-reset-without-resetting-network",
+      "color-plane-registration-malfunction",
+      "hp-blank-black-or-no-display-on-control-panel",
+      "hp-cold-reset-legacy-firmware",
+      "hp-mda-removal",
+      "hp-performing-legacy-firmware-upgrade"
+    ]
+  },
+  {
+    "ModelName": "HP CLJ 3600",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "cold-reset-without-resetting-network",
+      "color-plane-registration-malfunction",
+      "hp-blank-black-or-no-display-on-control-panel",
+      "hp-cold-reset-legacy-firmware",
+      "hp-mda-removal",
+      "hp-performing-legacy-firmware-upgrade"
+    ]
+  },
+  {
+    "ModelName": "HP CLJ 3800",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "cold-reset-without-resetting-network",
+      "color-plane-registration-malfunction",
+      "hp-blank-black-or-no-display-on-control-panel",
+      "hp-cold-reset-legacy-firmware",
+      "hp-mda-removal",
+      "hp-performing-legacy-firmware-upgrade"
+    ]
+  },
+  {
+    "ModelName": "HP CLJ 4500",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "hp-clj-printer-resets-transfer-and-fuser-kit"
+    ]
+  },
+  {
+    "ModelName": "HP CLJ 4550",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "hp-clj-printer-resets-transfer-and-fuser-kit"
+    ]
+  },
+  {
+    "ModelName": "HP CLJ 4600",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "cold-reset-without-resetting-network",
+      "color-plane-registration-malfunction",
+      "hp-blank-black-or-no-display-on-control-panel",
+      "hp-clj-4600-4650-blank-pages-disengaging-rod",
+      "hp-clj-printer-resets-transfer-and-fuser-kit",
+      "hp-cold-reset-legacy-firmware",
+      "hp-disk-initialize-legacy-firmware-non-mfp",
+      "hp-performing-legacy-firmware-upgrade"
+    ]
+  },
+  {
+    "ModelName": "HP CLJ 4650",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "cold-reset-without-resetting-network",
+      "color-plane-registration-malfunction",
+      "hp-blank-black-or-no-display-on-control-panel",
+      "hp-clj-4600-4650-blank-pages-disengaging-rod",
+      "hp-clj-printer-resets-transfer-and-fuser-kit",
+      "hp-cold-reset-legacy-firmware",
+      "hp-disk-initialize-legacy-firmware-non-mfp",
+      "hp-performing-legacy-firmware-upgrade"
+    ]
+  },
+  {
+    "ModelName": "HP CLJ 4700",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "cold-reset-without-resetting-network",
+      "color-plane-registration-malfunction",
+      "electronic-maintenance-reset-notice",
+      "hp-blank-black-or-no-display-on-control-panel",
+      "hp-clj-printer-resets-transfer-and-fuser-kit",
+      "hp-cold-reset-legacy-firmware",
+      "hp-disk-initialize-legacy-firmware-non-mfp",
+      "hp-performing-legacy-firmware-upgrade",
+      "hp-yellow-color-patially-missing"
+    ]
+  },
+  {
+    "ModelName": "HP CLJ 4730MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "cold-reset-without-resetting-network",
+      "color-plane-registration-malfunction",
+      "electronic-maintenance-reset-notice",
+      "hp-blank-black-or-no-display-on-control-panel",
+      "hp-clj-printer-resets-transfer-and-fuser-kit",
+      "hp-cold-reset-legacy-firmware",
+      "hp-performing-legacy-firmware-upgrade"
+    ]
+  },
+  {
+    "ModelName": "HP CLJ 5500",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "cold-reset-without-resetting-network",
+      "color-plane-registration-malfunction",
+      "hp-blank-black-or-no-display-on-control-panel",
+      "hp-clj-printer-resets-transfer-and-fuser-kit",
+      "hp-cold-reset-legacy-firmware",
+      "hp-disk-initialize-legacy-firmware-non-mfp",
+      "hp-performing-legacy-firmware-upgrade"
+    ]
+  },
+  {
+    "ModelName": "HP CLJ 5550",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "cold-reset-without-resetting-network",
+      "color-plane-registration-malfunction",
+      "hp-blank-black-or-no-display-on-control-panel",
+      "hp-clj-printer-resets-transfer-and-fuser-kit",
+      "hp-cold-reset-legacy-firmware",
+      "hp-disk-initialize-legacy-firmware-non-mfp",
+      "hp-performing-legacy-firmware-upgrade"
+    ]
+  },
+  {
+    "ModelName": "HP CLJ 8500",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "hp-clj-printer-resets-transfer-and-fuser-kit"
+    ]
+  },
+  {
+    "ModelName": "HP CLJ 8550",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "hp-clj-printer-resets-transfer-and-fuser-kit"
+    ]
+  },
+  {
+    "ModelName": "HP CLJ 9500",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "cold-reset-without-resetting-network",
+      "color-plane-registration-malfunction",
+      "hp-9000-series-13.11.05-error",
+      "hp-blank-black-or-no-display-on-control-panel",
+      "hp-clj-printer-resets-transfer-and-fuser-kit",
+      "hp-cold-reset-legacy-firmware",
+      "hp-performing-legacy-firmware-upgrade"
+    ]
+  },
+  {
+    "ModelName": "HP CLJ 9500MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "cold-reset-without-resetting-network",
+      "color-plane-registration-malfunction",
+      "hp-blank-black-or-no-display-on-control-panel",
+      "hp-cold-reset-legacy-firmware",
+      "hp-disk-initialize-mfp",
+      "hp-performing-legacy-firmware-upgrade"
+    ]
+  },
+  {
+    "ModelName": "HP CM1312MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "color-plane-registration-malfunction",
+      "hp-cm1312-cm2320-m351-m451-m375-m475-paper-jam-in-rear-door"
+    ]
+  },
+  {
+    "ModelName": "HP CM2320MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "color-plane-registration-malfunction",
+      "hp-cm1312-cm2320-m351-m451-m375-m475-paper-jam-in-rear-door",
+      "hp-cp2020-series-incorrect-supplies-error-message",
+      "hp-cp2025-cm2320-m351-m451-m475-m476-cleaning-mode-misprint-error",
+      "hp-replace-pickup-roller-secondary-service-mode",
+      "jam-in-tray-3",
+      "replace-transfer-belt"
+    ]
+  },
+  {
+    "ModelName": "HP CM3530MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "59.f0-error",
+      "cold-reset-without-resetting-network",
+      "color-plane-registration-malfunction",
+      "hp-blank-black-or-no-display-on-control-panel",
+      "hp-cold-reset-legacy-firmware",
+      "hp-cp3525-and-cm3530-lacking-error-code",
+      "hp-disk-initialize-mfp",
+      "hp-lines-caused-by-faulty-itb",
+      "hp-performing-legacy-firmware-upgrade",
+      "light-copies-from-adf-or-flatbed-scanner"
+    ]
+  },
+  {
+    "ModelName": "HP CM4540MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "13.20.00-jam-right-door",
+      "59.f0-error",
+      "color-plane-registration-malfunction",
+      "electronic-maintenance-reset-notice",
+      "ews-partial-clean",
+      "fuser-mode-adjustments",
+      "hp-33.02.01-used-board-message",
+      "hp-clj-printer-resets-transfer-and-fuser-kit",
+      "hp-cm4540-m4555-m551-m575mfp-power-save",
+      "hp-cm4540mfp-m4555-mfp-control-panel",
+      "hp-cold-reset-futuresmart-firmware",
+      "hp-future-smart-99.09.xx-error-codes",
+      "hp-future-smart-firmware-upgrade",
+      "hp-lines-caused-by-faulty-itb",
+      "print-stop-test"
+    ]
+  },
+  {
+    "ModelName": "HP CM4730MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "cold-reset-without-resetting-network",
+      "color-plane-registration-malfunction",
+      "electronic-maintenance-reset-notice",
+      "hp-blank-black-or-no-display-on-control-panel",
+      "hp-clj-printer-resets-transfer-and-fuser-kit",
+      "hp-cold-reset-legacy-firmware",
+      "hp-disk-initialize-mfp",
+      "hp-performing-legacy-firmware-upgrade",
+      "hp-yellow-color-patially-missing"
+    ]
+  },
+  {
+    "ModelName": "HP CM6030MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "color-plane-registration-malfunction",
+      "hp-disk-initialize-mfp",
+      "hp-m3027-m3035-m4345mfp-cm4730mfp-m5035mfp-cm6030-m9050mfp-hp-9250c-digital-sender",
+      "light-copies-from-adf-or-flatbed-scanner"
+    ]
+  },
+  {
+    "ModelName": "HP CM6040MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "cold-reset-without-resetting-network",
+      "color-plane-registration-malfunction",
+      "hp-blank-black-or-no-display-on-control-panel",
+      "hp-cold-reset-legacy-firmware",
+      "hp-disk-initialize-mfp",
+      "hp-lines-caused-by-faulty-itb",
+      "hp-m3027-m3035-m4345mfp-cm4730mfp-m5035mfp-cm6030-m9050mfp-hp-9250c-digital-sender",
+      "hp-performing-legacy-firmware-upgrade",
+      "light-copies-from-adf-or-flatbed-scanner"
+    ]
+  },
+  {
+    "ModelName": "HP CP2025",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "color-plane-registration-malfunction",
+      "hp-cm1312-cm2320-m351-m451-m375-m475-paper-jam-in-rear-door",
+      "hp-cp2020-series-incorrect-supplies-error-message",
+      "hp-cp2025-cm2320-m351-m451-m475-m476-cleaning-mode-misprint-error",
+      "hp-cp2025-error-on-control-panel",
+      "hp-replace-pickup-roller-secondary-service-mode",
+      "jam-in-tray-3",
+      "lj-cp2025-cm2320-m351-m451-m375-m475-m476-paper-jam-rear-door",
+      "replace-transfer-belt"
+    ]
+  },
+  {
+    "ModelName": "HP CP3015",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "color-plane-registration-malfunction",
+      "hp-disk-initialize-legacy-firmware-non-mfp"
+    ]
+  },
+  {
+    "ModelName": "HP CP3505",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "cold-reset-without-resetting-network",
+      "color-plane-registration-malfunction",
+      "hp-blank-black-or-no-display-on-control-panel",
+      "hp-cold-reset-legacy-firmware",
+      "hp-mda-removal",
+      "hp-performing-legacy-firmware-upgrade"
+    ]
+  },
+  {
+    "ModelName": "HP CP3525",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "HP-CP3525-and-CM3530-Lacking-Error-Code",
+      "cold-reset-without-resetting-network",
+      "color-plane-registration-malfunction",
+      "hp-blank-black-or-no-display-on-control-panel",
+      "hp-cold-reset-legacy-firmware",
+      "hp-cp3525-cm3530-m551-m575-59.f0-error",
+      "hp-lines-caused-by-faulty-itb",
+      "hp-performing-legacy-firmware-upgrade"
+    ]
+  },
+  {
+    "ModelName": "HP CP4005",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "color-plane-registration-malfunction",
+      "electronic-maintenance-reset-notice",
+      "hp-clj-printer-resets-transfer-and-fuser-kit",
+      "hp-yellow-color-patially-missing"
+    ]
+  },
+  {
+    "ModelName": "HP CP4025",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "13.20.00-jam-right-door",
+      "59.f0-error",
+      "cold-reset-without-resetting-network",
+      "color-plane-registration-malfunction",
+      "electronic-maintenance-reset-notice",
+      "hp-blank-black-or-no-display-on-control-panel",
+      "hp-clj-printer-resets-transfer-and-fuser-kit",
+      "hp-cold-reset-legacy-firmware",
+      "hp-lines-caused-by-faulty-itb",
+      "hp-performing-legacy-firmware-upgrade"
+    ]
+  },
+  {
+    "ModelName": "HP CP4525",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "13.20.00-jam-right-door",
+      "59.f0-error",
+      "cold-reset-without-resetting-network",
+      "color-plane-registration-malfunction",
+      "electronic-maintenance-reset-notice",
+      "hp-blank-black-or-no-display-on-control-panel",
+      "hp-clj-printer-resets-transfer-and-fuser-kit",
+      "hp-cold-reset-legacy-firmware",
+      "hp-lines-caused-by-faulty-itb",
+      "hp-performing-legacy-firmware-upgrade"
+    ]
+  },
+  {
+    "ModelName": "HP CP5225",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "color-plane-registration-malfunction",
+      "hp-clj-printer-resets-transfer-and-fuser-kit",
+      "hp-cp5525-cp5225-series-missing-cyan-magenta",
+      "hp-lines-caused-by-faulty-itb"
+    ]
+  },
+  {
+    "ModelName": "HP CP5525",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "color-plane-registration-malfunction",
+      "ews-partial-clean",
+      "fuser-mode-adjustments",
+      "future-smart-firmware-upgrade",
+      "hp-33.02.01-used-board-message",
+      "hp-clj-printer-resets-transfer-and-fuser-kit",
+      "hp-cm4540-m4555-m551-m575mfp-power-save",
+      "hp-cold-reset-futuresmart-firmware",
+      "hp-cp5525-cp5225-series-missing-cyan-magenta",
+      "hp-future-smart-99.09.xx-error-codes",
+      "hp-future-smart-firmware-upgrade",
+      "hp-lines-caused-by-faulty-itb",
+      "print-stop-test"
+    ]
+  },
+  {
+    "ModelName": "HP CP6015",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "cold-reset-without-resetting-network",
+      "color-plane-registration-malfunction",
+      "hp-blank-black-or-no-display-on-control-panel",
+      "hp-cold-reset-legacy-firmware",
+      "hp-cp6015-cm6030-cm6040mfp-transfer-access-sensor-error",
+      "hp-lines-caused-by-faulty-itb",
+      "hp-performing-legacy-firmware-upgrade"
+    ]
+  },
+  {
+    "ModelName": "HP M251",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "color-plane-registration-malfunction",
+      "hp-replace-pickup-roller-secondary-service-mode"
+    ]
+  },
+  {
+    "ModelName": "HP M275MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-pro-200-300-400-500-series-nvram-reset"
+    ]
+  },
+  {
+    "ModelName": "HP M276MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-pro-200-300-400-500-series-nvram-reset"
+    ]
+  },
+  {
+    "ModelName": "HP M3027MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "cold-reset-without-resetting-network",
+      "hp-blank-black-or-no-display-on-control-panel",
+      "hp-cold-reset-legacy-firmware",
+      "hp-disk-initialize-mfp",
+      "hp-m3027-m3035-m4345mfp-cm4730mfp-m5035mfp-cm6030-m9050mfp-hp-9250c-digital-sender",
+      "hp-p3005-p3015-m3027-m3035mfp-m525mfp-paper-jams-duplex",
+      "hp-performing-legacy-firmware-upgrade",
+      "light-copies-from-adf-or-flatbed-scanner"
+    ]
+  },
+  {
+    "ModelName": "HP M3035MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "cold-reset-without-resetting-network",
+      "hp-blank-black-or-no-display-on-control-panel",
+      "hp-cold-reset-legacy-firmware",
+      "hp-disk-initialize-mfp",
+      "hp-m3027-m3035-m4345mfp-cm4730mfp-m5035mfp-cm6030-m9050mfp-hp-9250c-digital-sender",
+      "hp-p3005-p3015-m3027-m3035mfp-m525mfp-paper-jams-duplex",
+      "hp-performing-legacy-firmware-upgrade",
+      "light-copies-from-adf-or-flatbed-scanner"
+    ]
+  },
+  {
+    "ModelName": "HP M351",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "color-plane-registration-malfunction",
+      "hp-cm1312-cm2320-m351-m451-m375-m475-paper-jam-in-rear-door",
+      "hp-cp2020-series-incorrect-supplies-error-message",
+      "hp-cp2025-cm2320-m351-m451-m475-m476-cleaning-mode-misprint-error",
+      "hp-replace-pickup-roller-secondary-service-mode",
+      "jam-in-tray-3",
+      "lj-cp2025-cm2320-m351-m451-m375-m475-m476-paper-jam-rear-door",
+      "replace-transfer-belt"
+    ]
+  },
+  {
+    "ModelName": "HP M375MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "color-plane-registration-malfunction",
+      "hp-cp2020-series-incorrect-supplies-error-message",
+      "hp-pro-200-300-400-500-series-nvram-reset",
+      "hp-replace-pickup-roller-secondary-service-mode",
+      "jam-in-tray-3",
+      "replace-transfer-belt"
+    ]
+  },
+  {
+    "ModelName": "HP M401",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "hp-pro-200-300-400-500-series-nvram-reset",
+      "hp-sleep-mode"
+    ]
+  },
+  {
+    "ModelName": "HP M402",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "continuous-load-paper-message"
+    ]
+  },
+  {
+    "ModelName": "HP M403",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "continuous-load-paper-message"
+    ]
+  },
+  {
+    "ModelName": "HP M425MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-pro-200-300-400-500-series-nvram-reset",
+      "hp-sleep-mode"
+    ]
+  },
+  {
+    "ModelName": "HP M426MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "continuous-load-paper-message"
+    ]
+  },
+  {
+    "ModelName": "HP M427MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "continuous-load-paper-message"
+    ]
+  },
+  {
+    "ModelName": "HP M4345MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "cold-reset-without-resetting-network",
+      "hp-blank-black-or-no-display-on-control-panel",
+      "hp-cold-reset-legacy-firmware",
+      "hp-disk-initialize-mfp",
+      "hp-laserjet-swingplate-failure",
+      "hp-performing-legacy-firmware-upgrade",
+      "light-copies-from-adf-or-flatbed-scanner",
+      "toner-ground-spring-dislocation"
+    ]
+  },
+  {
+    "ModelName": "HP M451",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "color-plane-registration-malfunction",
+      "hp-cm1312-cm2320-m351-m451-m375-m475-paper-jam-in-rear-door",
+      "hp-cp2020-series-incorrect-supplies-error-message",
+      "hp-cp2025-cm2320-m351-m451-m475-m476-cleaning-mode-misprint-error",
+      "hp-replace-pickup-roller-secondary-service-mode",
+      "jam-in-tray-3",
+      "lj-cp2025-cm2320-m351-m451-m375-m475-m476-paper-jam-rear-door",
+      "replace-transfer-belt"
+    ]
+  },
+  {
+    "ModelName": "HP M452",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "color-plane-registration-malfunction",
+      "hp-laserjet-m477-mfp-series-formatters"
+    ]
+  },
+  {
+    "ModelName": "HP M4555MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-cm4540mfp-m4555-mfp-control-panel",
+      "poor-print-quality-toner-contact"
+    ]
+  },
+  {
+    "ModelName": "HP M475MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "color-plane-registration-malfunction",
+      "hp-cp2020-series-incorrect-supplies-error-message",
+      "hp-cp2025-cm2320-m351-m451-m475-m476-cleaning-mode-misprint-error",
+      "hp-pro-200-300-400-500-series-nvram-reset",
+      "hp-replace-pickup-roller-secondary-service-mode",
+      "jam-in-tray-3",
+      "replace-transfer-belt"
+    ]
+  },
+  {
+    "ModelName": "HP M476MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "color-plane-registration-malfunction",
+      "hp-cm1312-cm2320-m351-m451-m375-m475-paper-jam-in-rear-door",
+      "hp-cp2020-series-incorrect-supplies-error-message",
+      "hp-cp2025-cm2320-m351-m451-m475-m476-cleaning-mode-misprint-error",
+      "hp-pro-200-300-400-500-series-nvram-reset",
+      "hp-replace-pickup-roller-secondary-service-mode",
+      "jam-in-tray-3",
+      "replace-transfer-belt"
+    ]
+  },
+  {
+    "ModelName": "HP M477MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "color-plane-registration-malfunction",
+      "hp-laserjet-m477-mfp-series-formatters"
+    ]
+  },
+  {
+    "ModelName": "HP M501",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "ews-partial-clean",
+      "fuser-mode-adjustments",
+      "hp-33.02.01-used-board-message",
+      "hp-cm4540-m4555-m551-m575mfp-power-save",
+      "hp-cold-reset-futuresmart-firmware",
+      "hp-future-smart-99.09.xx-error-codes",
+      "hp-future-smart-firmware-upgrade",
+      "print-stop-test"
+    ]
+  },
+  {
+    "ModelName": "HP M5025MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-disk-initialize-mfp",
+      "hp-m712-m725mfp-grinding-noise",
+      "light-copies-from-adf-or-flatbed-scanner"
+    ]
+  },
+  {
+    "ModelName": "HP M5035MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "cold-reset-without-resetting-network",
+      "hp-blank-black-or-no-display-on-control-panel",
+      "hp-cold-reset-legacy-firmware",
+      "hp-disk-initialize-mfp",
+      "hp-m712-m725mfp-grinding-noise",
+      "hp-performing-legacy-firmware-upgrade"
+    ]
+  },
+  {
+    "ModelName": "HP M506",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "ews-partial-clean",
+      "fuser-mode-adjustments",
+      "hp-33.02.01-used-board-message",
+      "hp-cm4540-m4555-m551-m575mfp-power-save",
+      "hp-cold-reset-futuresmart-firmware",
+      "hp-future-smart-99.09.xx-error-codes",
+      "hp-future-smart-firmware-upgrade",
+      "print-stop-test"
+    ]
+  },
+  {
+    "ModelName": "HP M521MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-pro-200-300-400-500-series-nvram-reset"
+    ]
+  },
+  {
+    "ModelName": "HP M525CMFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "common-mfp-formatter-errors",
+      "hp-33.02.01-used-board-message",
+      "hp-laserjet-flow-m525c-31.13.02-jam-in-doc-feeder",
+      "hp-m525-scanner-failures",
+      "hp-p3005-p3015-m3027-m3035mfp-m525mfp-paper-jams-duplex",
+      "lost-communication-on-control-panel"
+    ]
+  },
+  {
+    "ModelName": "HP M525MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "common-mfp-formatter-errors",
+      "ews-partial-clean",
+      "fuser-mode-adjustments",
+      "hp-33.02.01-used-board-message",
+      "hp-cm4540-m4555-m551-m575mfp-power-save",
+      "hp-cold-reset-futuresmart-firmware",
+      "hp-future-smart-99.09.xx-error-codes",
+      "hp-future-smart-firmware-upgrade",
+      "hp-m525-scanner-failures",
+      "hp-p3005-p3015-m3027-m3035mfp-m525mfp-paper-jams-duplex",
+      "hp-p3015-m525-tray-2-open-error",
+      "lost-communication-on-control-panel",
+      "print-stop-test"
+    ]
+  },
+  {
+    "ModelName": "HP M527MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "ews-partial-clean",
+      "fuser-mode-adjustments",
+      "hp-33.02.01-used-board-message",
+      "hp-cm4540-m4555-m551-m575mfp-power-save",
+      "hp-cold-reset-futuresmart-firmware",
+      "hp-future-smart-99.09.xx-error-codes",
+      "hp-future-smart-firmware-upgrade",
+      "print-stop-test"
+    ]
+  },
+  {
+    "ModelName": "HP M551",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "color-plane-registration-malfunction",
+      "ews-partial-clean",
+      "fuser-mode-adjustments",
+      "hp-33.02.01-used-board-message",
+      "hp-cm4540-m4555-m551-m575mfp-power-save",
+      "hp-cold-reset-futuresmart-firmware",
+      "hp-cp3525-cm3530-m551-m575-59.f0-error",
+      "hp-future-smart-99.09.xx-error-codes",
+      "hp-future-smart-firmware-upgrade",
+      "hp-lines-caused-by-faulty-itb",
+      "print-stop-test"
+    ]
+  },
+  {
+    "ModelName": "HP M552",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "color-plane-registration-malfunction",
+      "ews-partial-clean",
+      "fuser-mode-adjustments",
+      "hp-33.02.01-used-board-message",
+      "hp-clj-m552-m553-m577-print-quality-poor-transfer",
+      "hp-cm4540-m4555-m551-m575mfp-power-save",
+      "hp-cold-reset-futuresmart-firmware",
+      "hp-future-smart-99.09.xx-error-codes",
+      "hp-future-smart-firmware-upgrade",
+      "hp-lines-caused-by-faulty-itb",
+      "print-stop-test"
+    ]
+  },
+  {
+    "ModelName": "HP M553",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "color-plane-registration-malfunction",
+      "ews-partial-clean",
+      "fuser-mode-adjustments",
+      "hp-33.02.01-used-board-message",
+      "hp-clj-m552-m553-m577-print-quality-poor-transfer",
+      "hp-cm4540-m4555-m551-m575mfp-power-save",
+      "hp-cold-reset-futuresmart-firmware",
+      "hp-future-smart-99.09.xx-error-codes",
+      "hp-future-smart-firmware-upgrade",
+      "hp-lines-caused-by-faulty-itb",
+      "print-stop-test"
+    ]
+  },
+  {
+    "ModelName": "HP M570MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "color-plane-registration-malfunction",
+      "hp-pro-200-300-400-500-series-nvram-reset"
+    ]
+  },
+  {
+    "ModelName": "HP M575MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "color-plane-registration-malfunction",
+      "common-mfp-formatter-errors",
+      "ews-partial-clean",
+      "fuser-mode-adjustments",
+      "hp-33.02.01-used-board-message",
+      "hp-cm4540-m4555-m551-m575mfp-power-save",
+      "hp-cold-reset-futuresmart-firmware",
+      "hp-cp3525-cm3530-m551-m575-59.f0-error",
+      "hp-future-smart-99.09.xx-error-codes",
+      "hp-future-smart-firmware-upgrade",
+      "hp-lines-caused-by-faulty-itb",
+      "hp-m525-scanner-failures",
+      "lost-communication-on-control-panel",
+      "print-stop-test"
+    ]
+  },
+  {
+    "ModelName": "HP M577MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "color-plane-registration-malfunction",
+      "ews-partial-clean",
+      "fuser-mode-adjustments",
+      "hp-33.02.01-used-board-message",
+      "hp-clj-m552-m553-m577-print-quality-poor-transfer",
+      "hp-cm4540-m4555-m551-m575mfp-power-save",
+      "hp-cold-reset-futuresmart-firmware",
+      "hp-future-smart-99.09.xx-error-codes",
+      "hp-future-smart-firmware-upgrade",
+      "print-stop-test"
+    ]
+  },
+  {
+    "ModelName": "HP M601",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "13.a2.d2-input-paper-jam",
+      "13.a2.ff-paper-jam-error-at-power-up",
+      "60.2-error-code",
+      "ews-partial-clean",
+      "fan-errors",
+      "fuser-mode-adjustments",
+      "ghosting-from-incorrect-fuser-mode",
+      "hp-33.02.01-used-board-message",
+      "hp-cm4540-m4555-m551-m575mfp-power-save",
+      "hp-cold-reset-futuresmart-firmware",
+      "hp-future-smart-99.09.xx-error-codes",
+      "hp-future-smart-firmware-upgrade",
+      "hp-futuresmart-maint-resets",
+      "hp-m600-series-fuser-drive-assemblies",
+      "hp-m601-m602-m603-continuous-tray-lifting",
+      "hp-p4015-m600-series-grinding-from-fuser",
+      "motor-error-corrections",
+      "poor-print-quality-toner-contact",
+      "print-stop-test"
+    ]
+  },
+  {
+    "ModelName": "HP M602",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "13.a2.d2-input-paper-jam",
+      "13.a2.ff-paper-jam-error-at-power-up",
+      "60.2-error-code",
+      "ews-partial-clean",
+      "fan-errors",
+      "fuser-mode-adjustments",
+      "ghosting-from-incorrect-fuser-mode",
+      "hp-33.02.01-used-board-message",
+      "hp-cm4540-m4555-m551-m575mfp-power-save",
+      "hp-cold-reset-futuresmart-firmware",
+      "hp-future-smart-99.09.xx-error-codes",
+      "hp-future-smart-firmware-upgrade",
+      "hp-futuresmart-maint-resets",
+      "hp-m600-series-fuser-drive-assemblies",
+      "hp-m601-m602-m603-continuous-tray-lifting",
+      "hp-p4015-m600-series-grinding-from-fuser",
+      "motor-error-corrections",
+      "poor-print-quality-toner-contact",
+      "print-stop-test"
+    ]
+  },
+  {
+    "ModelName": "HP M603",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "13.a2.d2-input-paper-jam",
+      "13.a2.ff-paper-jam-error-at-power-up",
+      "60.2-error-code",
+      "ews-partial-clean",
+      "fan-errors",
+      "fuser-mode-adjustments",
+      "ghosting-from-incorrect-fuser-mode",
+      "hp-33.02.01-used-board-message",
+      "hp-cm4540-m4555-m551-m575mfp-power-save",
+      "hp-cold-reset-futuresmart-firmware",
+      "hp-future-smart-99.09.xx-error-codes",
+      "hp-future-smart-firmware-upgrade",
+      "hp-futuresmart-maint-resets",
+      "hp-m600-series-fuser-drive-assemblies",
+      "hp-m601-m602-m603-continuous-tray-lifting",
+      "hp-p4015-m600-series-grinding-from-fuser",
+      "motor-error-corrections",
+      "poor-print-quality-toner-contact",
+      "print-stop-test"
+    ]
+  },
+  {
+    "ModelName": "HP M604",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "13.a2.d2-input-paper-jam",
+      "13.a2.ff-paper-jam-error-at-power-up",
+      "60.2-error-code",
+      "ews-partial-clean",
+      "fuser-mode-adjustments",
+      "hp-33.02.01-used-board-message",
+      "hp-cm4540-m4555-m551-m575mfp-power-save",
+      "hp-cold-reset-futuresmart-firmware",
+      "hp-future-smart-99.09.xx-error-codes",
+      "hp-future-smart-firmware-upgrade",
+      "hp-futuresmart-maint-resets",
+      "hp-m600-series-fuser-drive-assemblies",
+      "hp-p4015-m600-series-grinding-from-fuser",
+      "m604-m605-m606-formatters",
+      "poor-print-quality-toner-contact",
+      "print-stop-test"
+    ]
+  },
+  {
+    "ModelName": "HP M605",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "13.a2.d2-input-paper-jam",
+      "13.a2.ff-paper-jam-error-at-power-up",
+      "60.2-error-code",
+      "ews-partial-clean",
+      "fuser-mode-adjustments",
+      "hp-33.02.01-used-board-message",
+      "hp-cm4540-m4555-m551-m575mfp-power-save",
+      "hp-cold-reset-futuresmart-firmware",
+      "hp-future-smart-99.09.xx-error-codes",
+      "hp-future-smart-firmware-upgrade",
+      "hp-futuresmart-maint-resets",
+      "hp-m600-series-fuser-drive-assemblies",
+      "hp-p4015-m600-series-grinding-from-fuser",
+      "m604-m605-m606-formatters",
+      "poor-print-quality-toner-contact",
+      "print-stop-test"
+    ]
+  },
+  {
+    "ModelName": "HP M606",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "13.a2.d2-input-paper-jam",
+      "13.a2.ff-paper-jam-error-at-power-up",
+      "60.2-error-code",
+      "ews-partial-clean",
+      "fuser-mode-adjustments",
+      "hp-33.02.01-used-board-message",
+      "hp-cm4540-m4555-m551-m575mfp-power-save",
+      "hp-cold-reset-futuresmart-firmware",
+      "hp-future-smart-99.09.xx-error-codes",
+      "hp-future-smart-firmware-upgrade",
+      "hp-futuresmart-maint-resets",
+      "hp-m600-series-fuser-drive-assemblies",
+      "hp-p4015-m600-series-grinding-from-fuser",
+      "m604-m605-m606-formatters",
+      "poor-print-quality-toner-contact",
+      "print-stop-test"
+    ]
+  },
+  {
+    "ModelName": "HP M607",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "ews-partial-clean",
+      "fuser-mode-adjustments",
+      "hp-33.02.01-used-board-message",
+      "hp-cm4540-m4555-m551-m575mfp-power-save",
+      "hp-cold-reset-futuresmart-firmware",
+      "hp-future-smart-99.09.xx-error-codes",
+      "hp-future-smart-firmware-upgrade",
+      "hp-futuresmart-maint-resets",
+      "print-stop-test"
+    ]
+  },
+  {
+    "ModelName": "HP M608",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "ews-partial-clean",
+      "fuser-mode-adjustments",
+      "hp-33.02.01-used-board-message",
+      "hp-cm4540-m4555-m551-m575mfp-power-save",
+      "hp-cold-reset-futuresmart-firmware",
+      "hp-future-smart-99.09.xx-error-codes",
+      "hp-future-smart-firmware-upgrade",
+      "hp-futuresmart-maint-resets",
+      "print-stop-test"
+    ]
+  },
+  {
+    "ModelName": "HP M609",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "ews-partial-clean",
+      "fuser-mode-adjustments",
+      "hp-33.02.01-used-board-message",
+      "hp-cm4540-m4555-m551-m575mfp-power-save",
+      "hp-cold-reset-futuresmart-firmware",
+      "hp-future-smart-99.09.xx-error-codes",
+      "hp-future-smart-firmware-upgrade",
+      "hp-futuresmart-maint-resets",
+      "print-stop-test"
+    ]
+  },
+  {
+    "ModelName": "HP M630MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "ews-partial-clean",
+      "fuser-mode-adjustments",
+      "hp-33.02.01-used-board-message",
+      "hp-cm4540-m4555-m551-m575mfp-power-save",
+      "hp-cold-reset-futuresmart-firmware",
+      "hp-future-smart-99.09.xx-error-codes",
+      "hp-future-smart-firmware-upgrade",
+      "poor-print-quality-toner-contact",
+      "print-stop-test"
+    ]
+  },
+  {
+    "ModelName": "HP M631MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "ews-partial-clean",
+      "fuser-mode-adjustments",
+      "hp-33.02.01-used-board-message",
+      "hp-cm4540-m4555-m551-m575mfp-power-save",
+      "hp-cold-reset-futuresmart-firmware",
+      "hp-future-smart-99.09.xx-error-codes",
+      "hp-future-smart-firmware-upgrade",
+      "print-stop-test"
+    ]
+  },
+  {
+    "ModelName": "HP M632MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "ews-partial-clean",
+      "fuser-mode-adjustments",
+      "hp-33.02.01-used-board-message",
+      "hp-cm4540-m4555-m551-m575mfp-power-save",
+      "hp-cold-reset-futuresmart-firmware",
+      "hp-future-smart-99.09.xx-error-codes",
+      "hp-future-smart-firmware-upgrade",
+      "print-stop-test"
+    ]
+  },
+  {
+    "ModelName": "HP M633MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "ews-partial-clean",
+      "fuser-mode-adjustments",
+      "hp-33.02.01-used-board-message",
+      "hp-cm4540-m4555-m551-m575mfp-power-save",
+      "hp-cold-reset-futuresmart-firmware",
+      "hp-future-smart-99.09.xx-error-codes",
+      "hp-future-smart-firmware-upgrade",
+      "print-stop-test"
+    ]
+  },
+  {
+    "ModelName": "HP M651",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "13.20.00-jam-right-door",
+      "59.f0-error",
+      "color-plane-registration-malfunction",
+      "electronic-maintenance-reset-notice",
+      "ews-partial-clean",
+      "fuser-mode-adjustments",
+      "hp-33.02.01-used-board-message",
+      "hp-clj-printer-resets-transfer-and-fuser-kit",
+      "hp-cm4540-m4555-m551-m575mfp-power-save",
+      "hp-cold-reset-futuresmart-firmware",
+      "hp-future-smart-99.09.xx-error-codes",
+      "hp-future-smart-firmware-upgrade",
+      "hp-lines-caused-by-faulty-itb",
+      "print-stop-test"
+    ]
+  },
+  {
+    "ModelName": "HP M652",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "color-plane-registration-malfunction",
+      "ews-partial-clean",
+      "fuser-mode-adjustments",
+      "hp-33.02.01-used-board-message",
+      "hp-cm4540-m4555-m551-m575mfp-power-save",
+      "hp-cold-reset-futuresmart-firmware",
+      "hp-future-smart-99.09.xx-error-codes",
+      "hp-future-smart-firmware-upgrade",
+      "hp-lines-caused-by-faulty-itb",
+      "print-stop-test"
+    ]
+  },
+  {
+    "ModelName": "HP M653",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "color-plane-registration-malfunction",
+      "ews-partial-clean",
+      "fuser-mode-adjustments",
+      "hp-33.02.01-used-board-message",
+      "hp-cm4540-m4555-m551-m575mfp-power-save",
+      "hp-cold-reset-futuresmart-firmware",
+      "hp-future-smart-99.09.xx-error-codes",
+      "hp-future-smart-firmware-upgrade",
+      "hp-lines-caused-by-faulty-itb",
+      "print-stop-test"
+    ]
+  },
+  {
+    "ModelName": "HP M680MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "13.20.00-jam-right-door",
+      "59.f0-error",
+      "color-plane-registration-malfunction",
+      "electronic-maintenance-reset-notice",
+      "ews-partial-clean",
+      "fuser-mode-adjustments",
+      "hp-33.02.01-used-board-message",
+      "hp-clj-printer-resets-transfer-and-fuser-kit",
+      "hp-cm4540-m4555-m551-m575mfp-power-save",
+      "hp-cold-reset-futuresmart-firmware",
+      "hp-future-smart-99.09.xx-error-codes",
+      "hp-future-smart-firmware-upgrade",
+      "hp-lines-caused-by-faulty-itb",
+      "print-stop-test"
+    ]
+  },
+  {
+    "ModelName": "HP M681MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "color-plane-registration-malfunction",
+      "ews-partial-clean",
+      "fuser-mode-adjustments",
+      "hp-33.02.01-used-board-message",
+      "hp-cm4540-m4555-m551-m575mfp-power-save",
+      "hp-cold-reset-futuresmart-firmware",
+      "hp-future-smart-99.09.xx-error-codes",
+      "hp-future-smart-firmware-upgrade",
+      "hp-lines-caused-by-faulty-itb",
+      "print-stop-test"
+    ]
+  },
+  {
+    "ModelName": "HP M682MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "color-plane-registration-malfunction",
+      "ews-partial-clean",
+      "fuser-mode-adjustments",
+      "hp-33.02.01-used-board-message",
+      "hp-cm4540-m4555-m551-m575mfp-power-save",
+      "hp-cold-reset-futuresmart-firmware",
+      "hp-future-smart-99.09.xx-error-codes",
+      "hp-future-smart-firmware-upgrade",
+      "hp-lines-caused-by-faulty-itb",
+      "print-stop-test"
+    ]
+  },
+  {
+    "ModelName": "HP M712",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "hp-futuresmart-maint-resets",
+      "hp-m712-m725mfp-grinding-noise",
+      "hp-m712-m725mfp-left-door"
+    ]
+  },
+  {
+    "ModelName": "HP M725MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "common-mfp-formatter-errors",
+      "ews-partial-clean",
+      "fuser-mode-adjustments",
+      "hp-33.02.01-used-board-message",
+      "hp-cm4540-m4555-m551-m575mfp-power-save",
+      "hp-cold-reset-futuresmart-firmware",
+      "hp-future-smart-99.09.xx-error-codes",
+      "hp-future-smart-firmware-upgrade",
+      "hp-m712-m725mfp-grinding-noise",
+      "lost-communication-on-control-panel",
+      "print-stop-test"
+    ]
+  },
+  {
+    "ModelName": "HP M750",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "color-plane-registration-malfunction",
+      "hp-clj-printer-resets-transfer-and-fuser-kit",
+      "hp-cp5525-cp5225-series-missing-cyan-magenta"
+    ]
+  },
+  {
+    "ModelName": "HP M775MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "color-plane-registration-malfunction",
+      "common-mfp-formatter-errors",
+      "ews-partial-clean",
+      "fuser-mode-adjustments",
+      "hp-33.02.01-used-board-message",
+      "hp-clj-printer-resets-transfer-and-fuser-kit",
+      "hp-cm4540-m4555-m551-m575mfp-power-save",
+      "hp-cold-reset-futuresmart-firmware",
+      "hp-cp5525-cp5225-series-missing-cyan-magenta",
+      "hp-future-smart-99.09.xx-error-codes",
+      "hp-future-smart-firmware-upgrade",
+      "hp-lines-caused-by-faulty-itb",
+      "lost-communication-on-control-panel",
+      "print-stop-test"
+    ]
+  },
+  {
+    "ModelName": "HP M806",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "electronic-maintenance-reset-notice",
+      "ews-partial-clean",
+      "fuser-mode-adjustments",
+      "hp-33.02.01-used-board-message",
+      "hp-cm4540-m4555-m551-m575mfp-power-save",
+      "hp-cold-reset-futuresmart-firmware",
+      "hp-future-smart-99.09.xx-error-codes",
+      "hp-future-smart-firmware-upgrade",
+      "hp-m806-incorrect-service-mode-pin",
+      "paper-jam-error-13.b2.ff",
+      "print-stop-test"
+    ]
+  },
+  {
+    "ModelName": "HP M830MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "electronic-maintenance-reset-notice",
+      "ews-partial-clean",
+      "fuser-mode-adjustments",
+      "hp-33.02.01-used-board-message",
+      "hp-cm4540-m4555-m551-m575mfp-power-save",
+      "hp-cold-reset-futuresmart-firmware",
+      "hp-future-smart-99.09.xx-error-codes",
+      "hp-future-smart-firmware-upgrade",
+      "paper-jam-error-13.b2.ff",
+      "print-stop-test"
+    ]
+  },
+  {
+    "ModelName": "HP M855",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "color-plane-registration-malfunction",
+      "electronic-maintenance-reset-notice",
+      "ews-partial-clean",
+      "fuser-mode-adjustments",
+      "hp-33.02.01-used-board-message",
+      "hp-clj-printer-resets-transfer-and-fuser-kit",
+      "hp-cm4540-m4555-m551-m575mfp-power-save",
+      "hp-cold-reset-futuresmart-firmware",
+      "hp-future-smart-99.09.xx-error-codes",
+      "hp-future-smart-firmware-upgrade",
+      "hp-lines-caused-by-faulty-itb",
+      "hp-m880-m855-error-codes",
+      "print-stop-test"
+    ]
+  },
+  {
+    "ModelName": "HP M880MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "color-plane-registration-malfunction",
+      "electronic-maintenance-reset-notice",
+      "ews-partial-clean",
+      "fuser-mode-adjustments",
+      "hp-33.02.01-used-board-message",
+      "hp-clj-printer-resets-transfer-and-fuser-kit",
+      "hp-cm4540-m4555-m551-m575mfp-power-save",
+      "hp-cold-reset-futuresmart-firmware",
+      "hp-future-smart-99.09.xx-error-codes",
+      "hp-future-smart-firmware-upgrade",
+      "hp-lines-caused-by-faulty-itb",
+      "hp-m880-m855-error-codes",
+      "print-stop-test"
+    ]
+  },
+  {
+    "ModelName": "HP M9040/M9050MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "cold-reset-without-resetting-network",
+      "hp-9000-series-13.11.05-error",
+      "hp-blank-black-or-no-display-on-control-panel",
+      "hp-cold-reset-legacy-firmware",
+      "hp-disk-initialize-mfp",
+      "hp-performing-legacy-firmware-upgrade"
+    ]
+  },
+  {
+    "ModelName": "HP P2055",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "hp-p2055-printer-menu-tree"
+    ]
+  },
+  {
+    "ModelName": "HP P3005",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "cold-reset-without-resetting-network",
+      "hp-blank-black-or-no-display-on-control-panel",
+      "hp-cold-reset-legacy-firmware",
+      "hp-p3005-m3027mfp-m3035mfp-grinding",
+      "hp-p3005-p3015-m3027-m3035mfp-m525mfp-paper-jams-duplex",
+      "hp-performing-legacy-firmware-upgrade"
+    ]
+  },
+  {
+    "ModelName": "HP P3015",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "cold-reset-without-resetting-network",
+      "hp-blank-black-or-no-display-on-control-panel",
+      "hp-cold-reset-legacy-firmware",
+      "hp-p3005-p3015-m3027-m3035mfp-m525mfp-paper-jams-duplex",
+      "hp-p3015-m525-tray-2-error",
+      "hp-p3015-m525-tray-2-open-error",
+      "hp-performing-legacy-firmware-upgrade"
+    ]
+  },
+  {
+    "ModelName": "HP P4014",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "41.8-error-code",
+      "60.2-error-code",
+      "cold-reset-without-resetting-network",
+      "hp-blank-black-or-no-display-on-control-panel",
+      "hp-cold-reset-legacy-firmware",
+      "hp-legacy-maintenance-resets",
+      "hp-p4015-m600-series-grinding-from-fuser",
+      "hp-performing-legacy-firmware-upgrade",
+      "p4015-series-59.xx-motor-errors",
+      "poor-print-quality-toner-contact"
+    ]
+  },
+  {
+    "ModelName": "HP P4015",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "41.8-error-code",
+      "60.2-error-code",
+      "cold-reset-without-resetting-network",
+      "hp-blank-black-or-no-display-on-control-panel",
+      "hp-cold-reset-legacy-firmware",
+      "hp-legacy-maintenance-resets",
+      "hp-p4015-m600-series-grinding-from-fuser",
+      "hp-performing-legacy-firmware-upgrade",
+      "p4015-series-59.xx-motor-errors",
+      "poor-print-quality-toner-contact"
+    ]
+  },
+  {
+    "ModelName": "HP P4515",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "41.8-error-code",
+      "60.2-error-code",
+      "cold-reset-without-resetting-network",
+      "hp-blank-black-or-no-display-on-control-panel",
+      "hp-cold-reset-legacy-firmware",
+      "hp-legacy-maintenance-resets",
+      "hp-p4015-m600-series-grinding-from-fuser",
+      "hp-performing-legacy-firmware-upgrade",
+      "p4015-series-59.xx-motor-errors",
+      "poor-print-quality-toner-contact"
+    ]
+  },
+  {
+    "ModelName": "Lexmark T640",
+    "PrinterGroup": "Lexmark Laser Printer",
+    "Pdf": [
+      "lexmark-80-scheduled-maintenance-reset"
+    ]
+  },
+  {
+    "ModelName": "Lexmark T642",
+    "PrinterGroup": "Lexmark Laser Printer",
+    "Pdf": [
+      "lexmark-80-scheduled-maintenance-reset"
+    ]
+  },
+  {
+    "ModelName": "Lexmark T644",
+    "PrinterGroup": "Lexmark Laser Printer",
+    "Pdf": [
+      "lexmark-80-scheduled-maintenance-reset"
+    ]
+  }
+]
